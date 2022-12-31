@@ -6,3 +6,6 @@ This is very interesting!!
 
 
 Make Your Time Count.
+
+# Local Development
+1. Open Adyeeri.html in your browser.
